@@ -153,7 +153,7 @@
   "noNoticesDays": "過去{{days}}日の間にお知らせはありません",
   "noNoticesMonth": "この月のお知らせはありません",
   "starts": "開始",
-  "duration": "間隔",
+  "duration": "所要時間",
   "viewLatestUpdates": "最新の更新を見る",
   "lastUpdated": "最終更新: {{time}}前",
   "year": "年",
